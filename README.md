@@ -8,7 +8,7 @@ step 5: faire :PlugInstall dans le .vimrc.plug<br />
 
 
 1.<br />
-git clone https://github.com/YacineCC/vim_setup.git<br />
+cd ~/;git clone https://github.com/YacineCC/vim_setup.git;<br />
 2.<br />
 cp ~/vim_setup/.vimrc .vimrc.plug ~/<br />
 3.<br />
