@@ -1,5 +1,5 @@
 # vim_setup
-Le vimrc et les trucs pour les pluggins<br />
+Tuto avec le vimrc prêt avec le colorscheme TokyoNight et le plugin d'autocompletion.<br />
 step 1 : clonner le repo<br />
 step 2: copier le .vimrc et le .vimrc.plug dans le ~/<br />
 step 3: faire la commande pour creer les repertoires<br />
