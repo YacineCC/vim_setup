@@ -10,7 +10,7 @@ step 5: faire :PlugInstall dans le .vimrc.plug<br />
 1.<br />
 cd ~/;git clone https://github.com/YacineCC/vim_setup.git;<br />
 2.<br />
-cp ~/vim_setup/.vimrc .vimrc.plug ~/<br />
+cp ~/vim_setup/.vimrc ~/vim_setup/.vimrc.plug ~/<br />
 3.<br />
 mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged ~/.vim/plug<br />
 4.<br />
