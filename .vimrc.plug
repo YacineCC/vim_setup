@@ -4,4 +4,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'vim-scripts/AutoComplPop'
 
+"TokyoNight colorscheme
+Plug 'ghifarit53/tokyonight-vim'
+
 call plug#end()
