@@ -18,4 +18,4 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.c
 vim ~/.vimrc.plug<br />
 :PlugInstall<br />
 _______________________________________________________________________________________________________________________________
-chmod +x install.sh si t'as la flemme et que t'as confiance que le script est n'est pas pernicieux.
+chmod +x install.sh;./install.sh; si t'as la flemme et que t'as confiance que le script est n'est pas pernicieux.
