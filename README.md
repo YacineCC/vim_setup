@@ -8,13 +8,13 @@ step 5: faire :PlugInstall dans le .vimrc.plug<br />
 
 
 1.<br />
-git clone https://github.com/YacineCC/vim_setup.git
+git clone https://github.com/YacineCC/vim_setup.git<br />
 2.<br />
-cp ~/vim_setup/.vimrc .vimrc.plug ~/
+cp ~/vim_setup/.vimrc .vimrc.plug ~/<br />
 3.<br />
-mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged ~/.vim/plug
+mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged ~/.vim/plug<br />
 4.<br />
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim<br />
 5.<br />
 vim ~/.vimrc.plug<br />
-:PlugInstall
+:PlugInstall<br />
